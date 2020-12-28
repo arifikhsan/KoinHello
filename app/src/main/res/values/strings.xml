@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Koin Hello</string>
+    <string name="see_logcat">See Logcat</string>
 </resources>
